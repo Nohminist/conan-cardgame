@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/conan-cardgame/static/css/main.e6c13ad2.css",
-    "main.js": "/conan-cardgame/static/js/main.06adc727.js",
+    "main.js": "/conan-cardgame/static/js/main.a91572a1.js",
     "static/js/453.68819edb.chunk.js": "/conan-cardgame/static/js/453.68819edb.chunk.js",
     "index.html": "/conan-cardgame/index.html",
     "main.e6c13ad2.css.map": "/conan-cardgame/static/css/main.e6c13ad2.css.map",
-    "main.06adc727.js.map": "/conan-cardgame/static/js/main.06adc727.js.map",
+    "main.a91572a1.js.map": "/conan-cardgame/static/js/main.a91572a1.js.map",
     "453.68819edb.chunk.js.map": "/conan-cardgame/static/js/453.68819edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.06adc727.js"
+    "static/js/main.a91572a1.js"
   ]
 }
