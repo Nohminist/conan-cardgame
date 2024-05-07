@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/conan-cardgame/static/css/main.e6c13ad2.css",
-    "main.js": "/conan-cardgame/static/js/main.66b7612f.js",
-    "static/js/453.68819edb.chunk.js": "/conan-cardgame/static/js/453.68819edb.chunk.js",
+    "main.css": "/conan-cardgame/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/conan-cardgame/static/js/main.efbef12d.chunk.js",
+    "main.js.map": "/conan-cardgame/static/js/main.efbef12d.chunk.js.map",
+    "runtime~main.js": "/conan-cardgame/static/js/runtime~main.aa1dfcb1.js",
+    "runtime~main.js.map": "/conan-cardgame/static/js/runtime~main.aa1dfcb1.js.map",
+    "static/js/2.bb017ac9.chunk.js": "/conan-cardgame/static/js/2.bb017ac9.chunk.js",
+    "static/js/2.bb017ac9.chunk.js.map": "/conan-cardgame/static/js/2.bb017ac9.chunk.js.map",
+    "static/js/3.08f4ee90.chunk.js": "/conan-cardgame/static/js/3.08f4ee90.chunk.js",
+    "static/js/3.08f4ee90.chunk.js.map": "/conan-cardgame/static/js/3.08f4ee90.chunk.js.map",
     "index.html": "/conan-cardgame/index.html",
-    "main.e6c13ad2.css.map": "/conan-cardgame/static/css/main.e6c13ad2.css.map",
-    "main.66b7612f.js.map": "/conan-cardgame/static/js/main.66b7612f.js.map",
-    "453.68819edb.chunk.js.map": "/conan-cardgame/static/js/453.68819edb.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.66b7612f.js"
-  ]
+    "precache-manifest.ef55a52dd5e7230b0c92e2d4aedb38d2.js": "/conan-cardgame/precache-manifest.ef55a52dd5e7230b0c92e2d4aedb38d2.js",
+    "service-worker.js": "/conan-cardgame/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/conan-cardgame/static/css/main.5ecd60fb.chunk.css.map"
+  }
 }
